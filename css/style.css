@@ -1,0 +1,23 @@
+.nav-img{
+
+    width: 4cm;
+
+}
+.bg-salmon{
+
+    background-color: #ff5158;
+}
+li {
+
+    list-style-type: none;
+
+  }
+  
+ .border-card{
+
+    border-style: solid;
+
+}
+svg{
+    object-position: 2px;
+}
